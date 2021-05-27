@@ -17,9 +17,7 @@
 <html>
 <body>
 
-<h2>The href Attribute</h2>
 
-<p>HTML links are defined with the a tag. The link address is specified in the href attribute:</p>
 
 <a href="https://www.instagram.com/horror.films_/">Visit instagram</a>
 
@@ -35,7 +33,7 @@
   
 <html>
 <body>
-</h2>
+
 <img src="https://assets3.thrillist.com/v1/image/1740198/1584x1054/crop;jpeg_quality=60.jpg" alt="Trulli" width="500" height="333">
 
 </body>
@@ -54,7 +52,7 @@
   
 <html>
 <body>
-</h2>
+
 <img src="https://assets3.thrillist.com/v1/image/1740204/1584x1054/crop;jpeg_quality=60.jpg" alt="Trulli" width="500" height="333">
 
 </body>
@@ -78,7 +76,7 @@
 
 <html>
 <body>
-</h2>
+
 <img src="https://assets3.thrillist.com/v1/image/1740199/1584x1054/crop;jpeg_quality=60.jpg" alt="Trulli" width="500" height="333">
 
 </body>
