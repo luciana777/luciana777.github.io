@@ -2,7 +2,7 @@
 
 <h1>The Greatest Horror Movies Since 2000</h1>
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -13,7 +13,7 @@
 
 
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -27,12 +27,12 @@
 </html>
 
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
 <h1>[REC] 2 (2009)</h1>
-  <!DOCTYPE html>
+  
 <html>
 <body>
 </h2>
@@ -40,7 +40,7 @@
 
 </body>
 </html>
-  <!DOCTYPE html>
+ 
 <html>
 <body>
 
@@ -51,7 +51,7 @@
 </html>
 
 <h2>The Descent (2005)</h2>
-  <!DOCTYPE html>
+  
 <html>
 <body>
 </h2>
@@ -59,7 +59,7 @@
 
 </body>
 </html>
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -75,7 +75,7 @@
 
 </body>
 </html>
-<!DOCTYPE html>
+
 <html>
 <body>
 </h2>
@@ -83,7 +83,7 @@
 
 </body>
 </html>
-<!DOCTYPE html>
+
 <html>
 <body>
 
